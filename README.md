@@ -1,3 +1,3 @@
 # demo-repo
 
-#detailed description of Demo
+#detailed description of Demo-repo
